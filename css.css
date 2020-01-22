@@ -1,0 +1,36 @@
+/*.container{
+
+    float: left;
+    width: 100%;*/
+/*}
+.panel-img {
+float: left;
+    width: calc(100%/3 - 20px);
+    height: 141px;
+    overflow: hidden;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    background-color: #c5c5c5;
+}
+.panel-img img {
+    width: 100%;
+}
+ 
+}
+
+
+
+*/
+
+img{
+
+	transition: all 1s;
+	box-shadow: 0.5rem 0.5rem 0.5rem #B1B1B1
+    
+}
+
+img:hover{ transform: scale(1.1);
+
+
+
